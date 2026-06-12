@@ -13,6 +13,7 @@ Ximena Quintanar Leal
 | [`Introduccion_EB.ipynb`](Introduccion_EB.ipynb) | Fundamentos del enfoque bayesiano, Teorema de Bayes, prior/posterior, distribuciones conjugadas |
 | [`Teorema_LC.ipynb`](Teorema_LC.ipynb) | Teorema del Límite Central, convergencia en distribución, conexión con posteriors asintóticos |
 | [`Replica_Teorema_LC.ipynb`](Replica_Teorema_LC.ipynb) | Réplica práctica del TLC mediante simulación (promedio de dados) |
+| [`Guia_Martingalas_Tiempo_Discreto.ipynb`](Guia_Martingalas_Tiempo_Discreto.ipynb) | Martingalas, caminata aleatoria, urna de Pólya, tiempos de paro y su conexión con inferencia bayesiana |
 
 ---
 
@@ -25,6 +26,9 @@ Ximena Quintanar Leal
 - Desigualdad de Berry-Esseen  
 - Teorema de Bernstein–von Mises  
 - Simulación y verificación numérica del TLC
+- Martingalas en tiempo discreto: definición, caminata aleatoria, urna de Pólya
+- Tiempos de paro y Teorema de Paro Opcional
+- Conexión de martingalas con procesos de Dirichlet y MCMC
 
 ---
 
